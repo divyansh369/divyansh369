@@ -17,5 +17,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=divyansh369&icon=6&color=9)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=divyansh369&label=Profile%20Views&color=3&icon=0&pretty=true)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
