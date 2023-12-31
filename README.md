@@ -1,4 +1,4 @@
-![Masterhead](https://github.com/divyansh369/divyansh369/blob/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![Masterhead](https://github.com/divyansh369/divyansh369/blob/main/ezgif-4-3e54c463bc.gif)
 # 💫 About Me:
 🔭 I’m currently working on React.js, Node.js, MongoDB, Express <br><br>🌱 I’m currently learning Full Stack Development<br><br>📫 How to reach me divyanshsrivastava215@gmail.com<br><br>
 ⚡ Fun fact:"🚀 Launching ideas into orbit, one line of code at a time! 🛰️"<br><br>
