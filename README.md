@@ -2,8 +2,8 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on React.js, Node.js, MongoDB, Express <br><br>🌱 I’m currently learning Full Stack Development<br><br>📫 How to reach me divyanshsrivastava215@gmail.com<br><br>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+🔭 I’m currently working on React.js, Node.js, MongoDB, Express <br><br>🌱 I’m currently learning Full Stack Development<br><br>📫 How to reach me divyanshsrivastava215@gmail.com<br><br>
 ⚡ Fun fact:"🚀 Launching ideas into orbit, one line of code at a time! 🛰️"<br><br>
 
 
