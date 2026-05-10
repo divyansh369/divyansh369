@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Divyansh%20Srivastava&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Code%20Enthusiast&descAlignY=55&descSize=16)
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Divyansh+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;React+%7C+Node.js+%7C+MongoDB+%7C+Express;Building+ideas+one+commit+at+a+time+%E2%9C%A8;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Typing SVG" />
 
@@ -18,22 +18,16 @@
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
-
 ## 🚀 About Me
 
-```javascript
-const divyansh = {
-  name: "Divyansh Srivastava",
-  role: "Full Stack Developer",
-  location: "India 🇮🇳",
-  currentlyWorking: ["React.js", "Node.js", "MongoDB", "Express"],
-  currentlyLearning: "Full Stack Development",
-  funFact: "🚀 Launching ideas into orbit, one line of code at a time!",
-  contact: "divyanshsrivastava215@gmail.com",
-  quote: "Code is poetry written in logic"
-};
-```
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+
+- 🔭 &nbsp; Currently working on **React.js, Node.js, MongoDB & Express**
+- 🌱 &nbsp; Learning **Full Stack Development**
+- 💬 &nbsp; Ask me about **JavaScript, React, Node.js**
+- 🤝 &nbsp; Open to **collaborations and interesting projects**
+- ⚡ &nbsp; Fun fact: **🚀 Launching ideas into orbit, one line of code at a time!**
+- 📫 &nbsp; Reach me at **divyanshsrivastava215@gmail.com**
 
 <br clear="right"/>
 
@@ -141,7 +135,7 @@ const divyansh = {
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 **⭐ Star my repos if you find them useful! Let's connect and build something awesome together! 🚀**
 
