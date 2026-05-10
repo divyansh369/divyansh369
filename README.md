@@ -115,20 +115,12 @@
 
 ---
 
-## 💡 Random Dev Quote
+## 🗓️ 3D Contribution Calendar
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+[![3D Contributions](https://raw.githubusercontent.com/divyansh369/divyansh369/main/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/divyansh369)
 
-</div>
-
----
-
-## 😂 Random Dev Meme
-
-<div align="center">
-<img src="https://randommeme-five.vercel.app/" style="height: 400px; border-radius: 10px;" />
 </div>
 
 ---
