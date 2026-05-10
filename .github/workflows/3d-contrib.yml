@@ -1,0 +1,22 @@
+name: 3D Contribution Calendar
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: divyansh369
+      - run: |
+          git config user.email "divyanshsrivastava215@gmail.com"
+          git config user.name "divyansh369"
+          git add -A
+          git commit -m "update 3D contribution calendar"
+          git push
