@@ -1,5 +1,5 @@
 <div align="center">
-
+ 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Divyansh+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;React+%7C+Node.js+%7C+MongoDB+%7C+Express;Building+ideas+one+commit+at+a+time+%E2%9C%A8;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Typing SVG" />
