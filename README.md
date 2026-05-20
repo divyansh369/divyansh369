@@ -10,7 +10,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Divyansh215)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/divyanshsrivas/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyanshsrivastava215@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)]([https://github.com/divyansh369](https://dev-folio-seven.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dev-folio-seven.vercel.app/)
 
 <img src="https://komarev.com/ghpvc/?username=divyansh369&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
