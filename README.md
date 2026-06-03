@@ -114,21 +114,3 @@
 </div>
 
 ---
-
-## 🗓️ 3D Contribution Calendar
-
-<div align="center">
-
-[![3D Contributions](https://raw.githubusercontent.com/divyansh369/divyansh369/main/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/divyansh369)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
-**⭐ Star my repos if you find them useful! Let's connect and build something awesome together! 🚀**
-
-</div>
