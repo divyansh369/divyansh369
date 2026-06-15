@@ -105,12 +105,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/divyansh369/divyansh369/output/github-contribution-grid-snake-dark.svg)
-
 </div>
 
 ---
