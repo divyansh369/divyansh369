@@ -94,17 +94,3 @@
 </div>
 
 ---
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=divyansh369&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
-
----
-
-</div>
-
----
